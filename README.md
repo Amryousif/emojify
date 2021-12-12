@@ -13,7 +13,7 @@ Obfuscate your python script (or indeed any plain text file) by converting an in
 
 If installation fails with `pip` for some reason, you can just clone the repository, since there are no dependancies apart from python 3:
 ```
-git clone https://github.com/chris-rands/emojify;
+git clone https://github.com/Amryousif/emojify;
 cd emojify
 ```
 
